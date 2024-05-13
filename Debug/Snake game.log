@@ -1,0 +1,14 @@
+﻿  Fruit.cpp
+  main.cpp
+D:\godot engine\Snake game\Snake_part.h(7,13): warning C4566: символ, представленный универсальным именем символа "\u2593", невозможно представить в текущей кодовой странице (1251)
+  Map.cpp
+D:\godot engine\Snake game\Map.cpp(6,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\godot engine\Snake game\Map.cpp(9,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\godot engine\Snake game\Map.cpp(27,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\godot engine\Snake game\Map.cpp(29,24): warning C4018: <: несоответствие типов со знаком и без знака
+  Snake.cpp
+D:\godot engine\Snake game\Snake_part.h(7,13): warning C4566: символ, представленный универсальным именем символа "\u2593", невозможно представить в текущей кодовой странице (1251)
+  Snake_part.cpp
+D:\godot engine\Snake game\Snake_part.h(7,13): warning C4566: символ, представленный универсальным именем символа "\u2593", невозможно представить в текущей кодовой странице (1251)
+  Создание кода...
+  Snake game.vcxproj -> D:\godot engine\Snake game\Debug\Snake game.exe

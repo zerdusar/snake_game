@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\godot engine\Snake game\Map.h(23,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+D:\godot engine\Snake game\Map.h(28,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+D:\godot engine\Snake game\Snake.h(39,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Snake game.vcxproj -> D:\godot engine\Snake game\x64\Debug\Snake game.exe
